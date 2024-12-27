@@ -10,7 +10,7 @@ A script to import passwords from a Bitwarden export file into the Pass password
 ## Usage
 
 ```bash
-  ./bw2pass.sh path/to/bitwarden_export.json
+./bw2pass.sh path/to/bitwarden_export.json
 ```
 
 ## JSON Structure
